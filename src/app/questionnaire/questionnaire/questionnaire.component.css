@@ -1,0 +1,32 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.custom-radio-group {
+    margin-left: 20px;
+}
+
+.custom-radio {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.custom-control-input {
+    margin-right: 8px;
+}
+
+.custom-control-label {
+    font-size: 16px;
+}

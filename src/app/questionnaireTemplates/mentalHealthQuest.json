@@ -1,0 +1,24 @@
+{
+    "name": "Mental Health Questionnaire",
+    "questions": [{
+            "text": "I experience symptoms of anxiety, depression, or other mental health conditions.",
+            "options": ["Strongly Agree", "Agree", "Disagree", "Strongly Disagree"],
+            "answer": ""
+        },
+        {
+            "text": "I experience symptoms such as insomnia, changes in appetite, or difficulty concentrating.",
+            "options": ["Strongly Agree", "Agree", "Disagree", "Strongly Disagree"],
+            "answer": ""
+        },
+        {
+            "text": "I have a history of mental health disorders or a family history of mental illness.",
+            "options": ["Strongly Agree", "Agree", "Disagree", "Strongly Disagree"],
+            "answer": ""
+        },
+        {
+            "text": "I have a support system of family and friends.",
+            "options": ["Strongly Agree", "Agree", "Disagree", "Strongly Disagree"],
+            "answer": ""
+        }
+    ]
+}
